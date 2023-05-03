@@ -2,5 +2,5 @@
 $title = 'About';
 $activePage = 'about';
 $html = 'about content';
-include 'template/layout.php';
+include 'template/layout.html';
 ?>
